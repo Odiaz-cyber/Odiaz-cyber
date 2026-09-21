@@ -11,7 +11,7 @@ Hello, I’m Zerberuz — a cybersecurity engineer from Cuba. I currently work a
 I’m deeply passionate about hacking, especially solving CTFs and tackling security challenges that push my skills further. Beyond my professional work, I enjoy developing video games and experimenting with AI agents to create practical solutions that blend creativity with technology.
 
 ## 📈 GitHub Stats
-![Zerberuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerberuz&show_icons=true&theme=dark)
+![Zerberuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Odiaz-cyber&show_icons=true&theme=dark)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/zerberuz)  
